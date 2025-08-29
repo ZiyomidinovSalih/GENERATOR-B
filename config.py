@@ -4,7 +4,7 @@ import os
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_CODE = os.getenv("ADMIN_CODE", "1234")
 ADMIN_CHAT_ID = int(os.getenv("ADMIN_CHAT_ID", "7792775986"))
-
+BOT_TOKEN = "8056968914:AAFDHOMpNXVx-x4GNRx-YEv9ucAZogF2zs8"  
 # Database configuration
 DATABASE_PATH = "task_management.db"
 
